@@ -5,7 +5,7 @@
 </p>
 
 - I'm **Student** | **Programmer** | **Learner**
-- Currently Learning **Java**, **Python** & **Web Development**
+- Currently Learning **C++** , **Python** & **Web Development**
 
 ### Feel Free to Contact me.....
 
