@@ -5,7 +5,7 @@
 </p>
 
 - I'm **Student** | **Programmer** | **Learner**
-- Currently Learning **C++** , **Python** & **Web Development**
+- Currently Learning **C** , **JAVA**, **Python** & **Web Development**
 
 ### Feel Free to Contact me.....
 
@@ -23,7 +23,8 @@
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html-5.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/css3.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
 </p>
 
 #### Profile views counter
