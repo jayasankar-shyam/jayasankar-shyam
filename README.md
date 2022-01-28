@@ -4,7 +4,7 @@
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
 </p>
 
-- I'm **Student** | **Programmer** | **Learner**
+- I'm **Student** | **Programmer**
 - Currently Learning **C** , **JAVA**, **Python** & **Web Development**
 
 ### Feel Free to Contact me.....
