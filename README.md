@@ -10,10 +10,12 @@
 ### Feel Free to Contact me.....
 
 <p align="center">
-	<a href="https://github.com/jayasankar-shyam"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://web.whatsapp.com/send?phone=+919400888318"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/whatsapp.png"/></a>
+	<a href="https://www.instagram.com/_j_sankar/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://www.linkedin.com/in/jayasankar-shyam-181967200"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/jayasankar.shyam/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/_j_sankar/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+
+	
 	
 </p>
 
